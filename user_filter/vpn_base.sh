@@ -1,5 +1,5 @@
 VPNIF="tun0"
-NETIF="eth1"
+NETIF="eth0"
 VPNUSER="vpnuser"
 TABLE_ID=42 # Can be any integer 0-253
 MARK_ID=0x10 # Any 32bit value
